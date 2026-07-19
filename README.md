@@ -113,8 +113,8 @@ mysql -u root -p < sql.sql
 
 | Role | Username | Password |
 |------|----------|----------|
-| **Admin** | `admin` | `admin` |
-| **User** | `user` | `admin` |
+| **Admin** | `admin` | `admin@123123` |
+| **User** | `user` | `admin@123123` |
 
 > ⚠️ **Change default passwords immediately after first login!**
 
